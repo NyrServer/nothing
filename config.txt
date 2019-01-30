@@ -1,6 +1,6 @@
-﻿token=
-owner=525270331611414529
-prefix=v
+token=NTQwMDM3MTMwMjU3MTcwNDQz.DzLH_w.JMpT2UyaE8rwgZEDw0FLMZhCdek
+owner=384697784609013760
+prefix=n
 game={ FM } 
 stayinchannel=true
 songinstatus=true
