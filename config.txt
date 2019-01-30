@@ -1,0 +1,6 @@
+﻿token=
+owner=525270331611414529
+prefix=v
+game={ FM } 
+stayinchannel=true
+songinstatus=true
