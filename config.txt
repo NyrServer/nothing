@@ -1,6 +1,6 @@
 token=NTQwMDM3MTMwMjU3MTcwNDQz.DzLH_w.JMpT2UyaE8rwgZEDw0FLMZhCdek
 owner=384697784609013760
-prefix=n
-game={ FM } 
+prefix=1
+game= NeyWork
 stayinchannel=true
 songinstatus=true
