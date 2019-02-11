@@ -1,4 +1,4 @@
-token=NTQwMDM3MTMwMjU3MTcwNDQz.DzLH_w.JMpT2UyaE8rwgZEDw0FLMZhCdek
+token=
 owner=384697784609013760
 prefix=1
 game= NeyWork
